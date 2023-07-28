@@ -1,0 +1,33 @@
+#signincontainer
+{
+    position: relative;
+    margin-left: 27%;
+    top: 8px;
+    align-items: center;
+}
+#logo
+{
+    margin-left: 15%;
+}
+#inputs
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 11%;
+}
+.userinput
+{
+    width: 250px;
+    margin-bottom: 5px;
+}
+#login
+{
+    margin-top: 15px;
+    margin-left: 30%;
+    height: 40px;
+    border-radius: 10%;
+}
+#login:hover{
+    transform: scale(1.5);
+    transition: 650ms;
+}

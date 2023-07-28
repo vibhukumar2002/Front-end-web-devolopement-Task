@@ -1,0 +1,5 @@
+.postscontentcontainer
+{
+    display: flex;
+    flex-wrap: wrap;
+}

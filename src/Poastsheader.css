@@ -1,0 +1,23 @@
+#poastheadercontainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    margin-left: 22%;
+   
+}
+.poasttypesymbol
+{
+    height: 15px;
+    width: 15px;
+}
+.poasttype{
+    display: flex;
+    align-items: center;
+}
+.poastname
+{
+    font-weight: bold;
+    margin-top: 2px rgba(0,0,0.1);
+}
