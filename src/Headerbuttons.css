@@ -1,6 +1,10 @@
 #headerbuttoncontainers
 {
-    margin-right:285px
+    margin-right:285px;
+    justify-content: center;
+    display:flex;
+    
+
 }
 .hbtn{
     height: 40px;
@@ -17,6 +21,7 @@ color: white;
 }
 #signup
 {
+    margin-top: 15px;
 background-color: white;
 color: lightseagreen;
 }
